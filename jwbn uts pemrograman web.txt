@@ -1,0 +1,39 @@
+Nama	: Diki Hakim
+NIM	: 22416255201086
+Kelas	: IF22G
+UTS Pemrograman Web
+
+Jawaban :
+
+1. Framework dalam pengembangan aplikasi adalah kerangka kerja atau struktur dasar yang menyediakan aturan, 
+   pedoman, dan alat untuk mempermudah pengembangan perangkat lunak. Mencakup struktur, library, dan konsep desain 
+   yang membantu pengembang fokus pada logika bisnis tanpa harus membangun kembali fungsi umum. Contoh frameworknya 
+   termasuk Django dan Flask untuk web development dengan Python, Ruby on Rails untuk Ruby, dan Angular/React untuk 
+   antarmuka pengguna berbasis JavaScript.
+
+2. 1. Proyek tentang klinik
+   2. Tim proyek : Diki Hakim, Salma, Bilaa.
+      - Yang dikerjakan Diki Hakim (mengerjakan frontend),diantaranya :
+        - Melakukan analisis/identifikasi terhadap kebutuhan aplikasi pada pengguna/user.
+        - Melakukan design/perancangan terhadap antarmuka pengguna/user(pada tombol, formulir, table dan lainnya).
+        - Pemilihan pada teknologi dan framework yang akan digunakan untuk mendukung design serta untuk mempercepat 
+          pengembangan.
+        - Melakukan implementasi terhadap komponen-komponen UI yang diperlukan, seperti formulir pendaftaran pasien, 
+          jadwal dokter dan daftar rekam medis.
+        - Menghubungkan dengan backend melalui API untuk mendapatkan dan mengirim data.
+        - Membuat dokumen/laporan proyek.
+      - Tugas Salma dan Billa(mengerjakan backend) :
+        - Melakukan wawancara/interview di klinik pratama gempol 2 serta mencatat hasilnya dengan permasalahan-permasalahan 
+          di seputar klinik.
+        - Menentukan kebutuhan fungsional dan non-fungsional pada aplikasi klinik, seperti pada manajemen pasien, rekam medis, 
+          jadwal dokter, stok obat dan lain-lainnya.
+        - Melaukan perancangan design pada struktur database untuk menyimpan data seperti informasi pasien, rekam medis, 
+          jadwal dokter, stock obat dan lainnya.
+        - Pemilihan teknologi pada perancangan sistem manajemen basis data (menggunakan PHP MySQL).
+        - Membuat dokumentasi yang lengkap untuk backend, skema database, dan panduan instalasi sistem manajemen basis data  
+          (PHP MySQL).
+        - Membuat dokumen/laporan proyek.
+    3.  - Fitur terbatas
+   	- Pencarian data yang sulit. 
+
+    
